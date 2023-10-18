@@ -4,6 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+typer = {extras = ["all"], version = "*"}
+pyinquirer = "*"
+rich = "*"
 
 [dev-packages]
 
