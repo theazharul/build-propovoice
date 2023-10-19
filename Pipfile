@@ -7,6 +7,8 @@ name = "pypi"
 typer = {extras = ["all"], version = "*"}
 pyinquirer = "*"
 rich = "*"
+update = "*"
+prompt-toolkit = "*"
 
 [dev-packages]
 
